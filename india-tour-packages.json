@@ -1782,6 +1782,635 @@
                 "All Transport and Sightseeing by Individual Car",
                 "All Taxes Include."
             ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "MANALI WEEKEND TOUR PACKAGE",
+        "duration": "04 Nights / 05 Days",
+        "destination_covered": "Delhi - Manali - Solang Valley - Rohtang Pass (Optional) - Kullu - Manali - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Manali",
+                "description": "On arrival at Delhi, board your Volvo bus or private vehicle in the evening and proceed to Manali. Enjoy an overnight journey through scenic mountain roads along the Beas River."
+            },
+            {
+                "day": "Day 2 - Manali Arrival & Local Sightseeing",
+                "description": "On arrival at Manali, check in at the hotel and relax. Later proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs and Mall Road. Evening free for leisure and shopping. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy adventure activities like paragliding, zorbing and ropeway rides. You can also visit Rohtang Pass (subject to permit and weather conditions) for snow activities. Return to Manali in the evening. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Kullu - Naggar Sightseeing",
+                "description": "Morning after breakfast proceed for an excursion to Kullu Valley. Visit river rafting point, shawl factories and Vaishno Devi Temple. On the way, visit Naggar Castle and Art Gallery. Return to Manali by evening. Later board Volvo bus for Delhi. Overnight journey."
+            },
+            {
+                "day": "Day 5 - Arrival in Delhi",
+                "description": "Arrive at Delhi in the morning with sweet memories of your Manali trip."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Manali",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "Delhi - Manali - Delhi Volvo Bus Tickets",
+            "All local sightseeing by private vehicle",
+            "Solang Valley excursion",
+            "Kullu & Naggar sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "MANALI HONEYMOON TOUR PACKAGE",
+        "duration": "05 Nights / 06 Days",
+        "destination_covered": "Delhi - Manali - Solang Valley - Rohtang Pass (Optional) - Kullu - Manali - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Manali",
+                "description": "On arrival at Delhi, board your Volvo bus or private cab in the evening and proceed to Manali. Enjoy a comfortable overnight journey through scenic mountain roads."
+            },
+            {
+                "day": "Day 2 - Manali Arrival & Leisure",
+                "description": "On arrival at Manali, check in at the hotel. Freshen up and relax. The day is free for leisure to enjoy the romantic surroundings. In the evening, visit Mall Road for shopping and cafes. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Manali Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Club House. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy snow activities and adventure sports like paragliding, zorbing and ropeway rides. You can also visit Rohtang Pass (subject to permit and weather conditions). Return to Manali in the evening. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Kullu - Naggar Sightseeing & Departure",
+                "description": "Morning after breakfast proceed for an excursion to Kullu Valley. Visit river rafting point, shawl factories and Vaishno Devi Temple. En route visit Naggar Castle and Art Gallery. Later in the evening, board Volvo bus for Delhi. Overnight journey."
+            },
+            {
+                "day": "Day 6 - Arrival in Delhi",
+                "description": "Arrive at Delhi in the morning with beautiful memories of your honeymoon trip."
+            }
+        ],
+
+        "package_inclusions": [
+            "3 Nights Accommodation in Manali",
+            "2 Nights Volvo Bus (Delhi - Manali - Delhi)",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "Candle light dinner for couple (once during stay)",
+            "Honeymoon room decoration (once during stay)",
+            "Cake on arrival for couple",
+            "All local sightseeing by private vehicle",
+            "Solang Valley excursion",
+            "Kullu & Naggar sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "MANALI KASOL AMRITSAR TOUR PACKAGE",
+        "duration": "07 Nights / 08 Days",
+        "destination_covered": "Delhi - Manali - Solang Valley - Kullu - Kasol - Manikaran - Amritsar - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Manali",
+                "description": "On arrival at Delhi, board your Volvo bus or private cab in the evening and proceed to Manali. Enjoy an overnight journey through scenic mountain roads along the Beas River."
+            },
+            {
+                "day": "Day 2 - Manali Arrival & Leisure",
+                "description": "On arrival at Manali, check in at the hotel and relax. The day is free for leisure. In the evening, explore Mall Road and nearby cafes. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Manali Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Club House. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy adventure activities like paragliding, zorbing and ropeway rides. You can also visit Rohtang Pass (subject to permit and weather conditions). Return to Manali in the evening. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Manali - Kullu - Kasol",
+                "description": "Morning after breakfast check out and proceed to Kasol via Kullu Valley. Visit river rafting point, shawl factories and Vaishno Devi Temple in Kullu. Continue drive to Kasol, check in at hotel/camp and enjoy the serene Parvati Valley. Overnight stay at Hotel/Camp."
+            },
+            {
+                "day": "Day 6 - Kasol - Manikaran - Amritsar",
+                "description": "Morning after breakfast visit Manikaran Sahib known for its hot springs and Gurudwara. Later proceed to Amritsar. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 7 - Amritsar Sightseeing",
+                "description": "Morning after breakfast visit Golden Temple, Jallianwala Bagh and Durgiana Temple. Later in the afternoon proceed to Wagah Border to witness the retreat ceremony. Return to hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 8 - Amritsar - Delhi",
+                "description": "Morning after breakfast check out from hotel and proceed to Delhi. Drop at airport/railway station with onward journey."
+            }
+        ],
+
+        "package_inclusions": [
+            "3 Nights Accommodation in Manali",
+            "1 Night Accommodation in Kasol",
+            "2 Nights Accommodation in Amritsar",
+            "1 Night Volvo Bus (Delhi - Manali)",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "Solang Valley excursion",
+            "Kullu & Kasol sightseeing",
+            "Manikaran excursion",
+            "Amritsar local sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "MANALI SHIMLA HONEYMOON TOUR PACKAGE",
+        "duration": "06 Nights / 07 Days",
+        "destination_covered": "Delhi - Shimla - Kufri - Manali - Solang Valley - Kullu - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Shimla",
+                "description": "On arrival at Delhi, meet our representative and proceed to Shimla by private cab/Volvo. Enjoy a scenic drive through hills. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Shimla - Kufri Sightseeing",
+                "description": "Morning after breakfast proceed to Kufri. Enjoy scenic views, horse riding and adventure activities. Visit Kufri Fun World and Himalayan Nature Park. Return to Shimla and visit Mall Road, Christ Church and Ridge. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Shimla - Manali",
+                "description": "Morning after breakfast check out and proceed to Manali. En route enjoy scenic views of mountains and valleys. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Manali Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Club House. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy snow activities and adventure sports like paragliding, zorbing and ropeway rides. You can also visit Rohtang Pass (subject to permit and weather conditions). Return to Manali. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 6 - Kullu - Departure to Delhi",
+                "description": "Morning after breakfast proceed for Kullu Valley sightseeing including river rafting point, shawl factories and Vaishno Devi Temple. Later in the evening board Volvo bus/private cab for Delhi. Overnight journey."
+            },
+            {
+                "day": "Day 7 - Arrival in Delhi",
+                "description": "Arrive at Delhi in the morning with sweet and romantic memories of your honeymoon trip."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Shimla",
+            "3 Nights Accommodation in Manali",
+            "1 Night Volvo Bus (Manali - Delhi) or equivalent transfer",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "Candle light dinner for couple (once during stay)",
+            "Honeymoon room decoration (once during stay)",
+            "Cake on arrival for couple",
+            "All transfers and sightseeing by private vehicle",
+            "Kufri excursion",
+            "Solang Valley excursion",
+            "Kullu sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "GRAND HIMACHAL TOUR PACKAGE",
+        "duration": "08 Nights / 09 Days",
+        "destination_covered": "Delhi - Shimla - Kufri - Manali - Solang Valley - Kullu - Dharamshala - Dalhousie - Khajjiar - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Shimla",
+                "description": "On arrival at Delhi, meet our representative and proceed to Shimla by private cab/Volvo. Enjoy a scenic drive through the hills. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Shimla - Kufri Sightseeing",
+                "description": "Morning after breakfast proceed to Kufri. Enjoy scenic views and adventure activities. Visit Kufri Fun World and Himalayan Nature Park. Later return to Shimla and visit Mall Road, Ridge and Christ Church. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Shimla - Manali",
+                "description": "Morning after breakfast check out and proceed to Manali. En route enjoy beautiful valleys, rivers and mountain views. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Manali Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Club House. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy snow activities and adventure sports like paragliding, zorbing and ropeway rides. You can also visit Rohtang Pass (subject to permit and weather conditions). Return to Manali in the evening. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 6 - Manali - Dharamshala",
+                "description": "Morning after breakfast check out and proceed to Dharamshala. En route enjoy scenic views of mountains and valleys. On arrival check in at hotel. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 7 - Dharamshala Sightseeing - Dalhousie",
+                "description": "Morning after breakfast proceed for Dharamshala sightseeing covering Dalai Lama Temple, Bhagsunag Temple and Waterfall, and Cricket Stadium. Later proceed to Dalhousie. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 8 - Dalhousie - Khajjiar Sightseeing",
+                "description": "Morning after breakfast proceed to Khajjiar, also known as Mini Switzerland of India. Enjoy the scenic beauty of meadows and forests. Return to Dalhousie and visit local attractions. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 9 - Dalhousie - Delhi",
+                "description": "Morning after breakfast check out from hotel and proceed to Delhi. Drop at airport/railway station with onward journey."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Shimla",
+            "3 Nights Accommodation in Manali",
+            "1 Night Accommodation in Dharamshala",
+            "2 Nights Accommodation in Dalhousie",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "Kufri excursion",
+            "Solang Valley excursion",
+            "Dharamshala sightseeing",
+            "Dalhousie & Khajjiar sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh",
+        "package_name": "DELHI MANALI TOUR PACKAGE",
+        "duration": "03 Nights / 04 Days",
+        "destination_covered": "Delhi - Manali - Solang Valley - Kullu - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Manali",
+                "description": "On arrival at Delhi, board your Volvo bus or private cab in the evening and proceed to Manali. Enjoy an overnight journey through scenic mountain roads along the Beas River."
+            },
+            {
+                "day": "Day 2 - Manali Arrival & Local Sightseeing",
+                "description": "On arrival at Manali, check in at the hotel and relax. Later proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Mall Road. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Solang Valley / Kullu Sightseeing",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy adventure activities like paragliding, zorbing and ropeway rides. Later proceed for Kullu Valley sightseeing including river rafting point, shawl factories and Vaishno Devi Temple. Return to Manali. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Manali - Delhi",
+                "description": "Morning after breakfast check out from hotel. Day free for leisure or last-minute shopping. Later in the evening board Volvo bus/private cab for Delhi. Overnight journey."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Manali",
+            "1 Night Volvo Bus (Delhi - Manali)",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All local sightseeing by private vehicle",
+            "Solang Valley excursion",
+            "Kullu sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "CHAR DHAM YATRA BY HELICOPTER (EX DEHRADUN)",
+        "duration": "05 Nights / 06 Days",
+        "destination_covered": "Dehradun - Yamunotri - Gangotri - Kedarnath - Badrinath - Dehradun",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Dehradun Arrival",
+                "description": "On arrival at Dehradun, meet our representative and transfer to hotel. Attend the evening briefing session about the Char Dham Yatra by helicopter. Dinner and overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Dehradun - Yamunotri",
+                "description": "Early morning transfer to helipad and fly to Yamunotri (Kharsali helipad). On arrival, proceed for Yamunotri Temple darshan via palki/pony (approx. 6 km trek). After darshan return to hotel for dinner and overnight stay."
+            },
+            {
+                "day": "Day 3 - Yamunotri - Gangotri",
+                "description": "Morning after breakfast fly to Gangotri (Harsil helipad). On arrival, drive to Gangotri Temple for darshan. After darshan return to hotel. Evening at leisure. Dinner and overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Gangotri - Kedarnath",
+                "description": "Morning after breakfast fly to Kedarnath helipad. On arrival proceed for Kedarnath Temple darshan. Special VIP darshan assistance provided. After darshan return to hotel. Dinner and overnight stay."
+            },
+            {
+                "day": "Day 5 - Kedarnath - Badrinath",
+                "description": "Morning after breakfast fly to Badrinath. On arrival check in at hotel and proceed for Badrinath Temple darshan. Visit Mana Village (last village of India) if time permits. Evening aarti at temple. Dinner and overnight stay."
+            },
+            {
+                "day": "Day 6 - Badrinath - Dehradun",
+                "description": "Morning after breakfast transfer to helipad and fly back to Dehradun. On arrival transfer to airport/railway station with divine memories of Char Dham Yatra."
+            }
+        ],
+
+        "package_inclusions": [
+            "Helicopter transfers for complete Char Dham Yatra",
+            "2 Nights Accommodation in Dehradun (before/after yatra as per schedule)",
+            "1 Night Accommodation near Yamunotri (Kharsali)",
+            "1 Night Accommodation in Gangotri (Harsil)",
+            "1 Night Accommodation in Kedarnath",
+            "1 Night Accommodation in Badrinath",
+            "All meals (Breakfast, Lunch & Dinner)",
+            "VIP darshan assistance at all temples",
+            "Local transfers and ground handling",
+            "Palki/Pony arrangement at Yamunotri",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "DO DHAM YATRA BY HELICOPTER (EX DEHRADUN)",
+        "duration": "03 Nights / 04 Days",
+        "destination_covered": "Dehradun - Kedarnath - Badrinath - Dehradun",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Dehradun Arrival",
+                "description": "On arrival at Dehradun, meet our representative and transfer to hotel. Attend a briefing session about the Do Dham Yatra by helicopter. Dinner and overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Dehradun - Kedarnath",
+                "description": "Early morning transfer to helipad and fly to Kedarnath. On arrival proceed for Kedarnath Temple darshan with VIP assistance. After darshan return to hotel. Evening at leisure. Dinner and overnight stay."
+            },
+            {
+                "day": "Day 3 - Kedarnath - Badrinath",
+                "description": "Morning after breakfast fly to Badrinath. On arrival check in at hotel and proceed for Badrinath Temple darshan. Visit Mana Village if time permits and attend evening aarti. Dinner and overnight stay."
+            },
+            {
+                "day": "Day 4 - Badrinath - Dehradun",
+                "description": "Morning after breakfast transfer to helipad and fly back to Dehradun. On arrival transfer to airport/railway station with blessings and memorable experiences."
+            }
+        ],
+
+        "package_inclusions": [
+            "Helicopter transfers for Kedarnath & Badrinath",
+            "1 Night Accommodation in Dehradun",
+            "1 Night Accommodation in Kedarnath",
+            "1 Night Accommodation in Badrinath",
+            "All meals (Breakfast, Lunch & Dinner)",
+            "VIP darshan assistance at temples",
+            "Local transfers and ground handling",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "CHAR DHAM YATRA BY ROAD (EX DELHI)",
+        "duration": "11 Nights / 12 Days",
+        "destination_covered": "Delhi - Haridwar - Barkot - Yamunotri - Uttarkashi - Gangotri - Guptkashi - Kedarnath - Badrinath - Rudraprayag - Rishikesh - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Haridwar",
+                "description": "On arrival at Delhi, meet our representative and proceed to Haridwar. Check in at hotel and in the evening attend Ganga Aarti at Har Ki Pauri. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Haridwar - Barkot",
+                "description": "Morning after breakfast proceed to Barkot via Mussoorie. En route visit Kempty Falls. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Barkot - Yamunotri - Barkot",
+                "description": "Early morning drive to Janki Chatti and start trek to Yamunotri Temple (approx. 6 km one way). Darshan of Yamunotri Temple and return to Barkot. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Barkot - Uttarkashi",
+                "description": "Morning after breakfast proceed to Uttarkashi. On arrival check in at hotel. Visit Kashi Vishwanath Temple. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Uttarkashi - Gangotri - Uttarkashi",
+                "description": "Early morning drive to Gangotri Temple. Darshan and pooja at temple. Later return to Uttarkashi. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 6 - Uttarkashi - Guptkashi",
+                "description": "Morning after breakfast proceed to Guptkashi via Tehri Dam. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 7 - Guptkashi - Kedarnath",
+                "description": "Early morning drive to Sonprayag and proceed to Gaurikund. Start trek to Kedarnath Temple (approx. 16 km). On arrival check in at guesthouse and attend evening aarti. Overnight stay near temple."
+            },
+            {
+                "day": "Day 8 - Kedarnath - Guptkashi",
+                "description": "Early morning darshan at Kedarnath Temple. After breakfast trek back to Gaurikund and drive to Guptkashi. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 9 - Guptkashi - Badrinath",
+                "description": "Morning after breakfast proceed to Badrinath. On arrival check in at hotel and visit Badrinath Temple for darshan and evening aarti. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 10 - Badrinath - Rudraprayag",
+                "description": "Morning after breakfast visit Mana Village (last village of India), then proceed to Rudraprayag. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 11 - Rudraprayag - Rishikesh",
+                "description": "Morning after breakfast proceed to Rishikesh. Visit Ram Jhula, Laxman Jhula and local temples. Evening at leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 12 - Rishikesh - Delhi",
+                "description": "Morning after breakfast check out and proceed to Delhi. Drop at airport/railway station with divine memories of Char Dham Yatra."
+            }
+        ],
+
+        "package_inclusions": [
+            "1 Night Accommodation in Haridwar",
+            "2 Nights Accommodation in Barkot",
+            "2 Nights Accommodation in Uttarkashi",
+            "2 Nights Accommodation in Guptkashi",
+            "1 Night Accommodation in Kedarnath",
+            "1 Night Accommodation in Badrinath",
+            "1 Night Accommodation in Rudraprayag",
+            "1 Night Accommodation in Rishikesh",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "BADRINATH KEDARNATH DHAM TOUR PACKAGE",
+        "duration": "05 Nights / 06 Days",
+        "destination_covered": "Haridwar - Guptkashi - Kedarnath - Badrinath - Rudraprayag - Haridwar",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Haridwar - Guptkashi",
+                "description": "On arrival at Haridwar, meet our representative and proceed to Guptkashi. En route enjoy scenic views of rivers and mountains. On arrival check in at hotel and relax. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Guptkashi - Kedarnath",
+                "description": "Early morning drive to Sonprayag and then to Gaurikund. Start trek to Kedarnath Temple (approx. 16 km) or take pony/palki/helicopter (at extra cost). On arrival check in at guesthouse and attend evening aarti at Kedarnath Temple. Overnight stay near temple."
+            },
+            {
+                "day": "Day 3 - Kedarnath - Guptkashi",
+                "description": "Early morning darshan at Kedarnath Temple. After breakfast trek back to Gaurikund and drive to Guptkashi. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Guptkashi - Badrinath",
+                "description": "Morning after breakfast proceed to Badrinath. On arrival check in at hotel and visit Badrinath Temple for darshan. Attend evening aarti. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 5 - Badrinath - Rudraprayag",
+                "description": "Morning after breakfast visit Mana Village (last village of India), then proceed to Rudraprayag. En route visit Vishnuprayag or Karnaprayag if time permits. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 6 - Rudraprayag - Haridwar",
+                "description": "Morning after breakfast check out from hotel and proceed to Haridwar. Drop at railway station/airport with divine memories of the yatra."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Guptkashi",
+            "1 Night Accommodation in Kedarnath",
+            "1 Night Accommodation in Badrinath",
+            "1 Night Accommodation in Rudraprayag",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "Driver allowance, toll taxes and parking",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "himachal_pradesh_punjab",
+        "package_name": "MANALI KASOL AMRITSAR TOUR PACKAGE",
+        "duration": "07 Nights / 08 Days",
+        "destination_covered": "Manali - Kullu - Kasol - Manikaran - Dharamshala - Dalhousie - Khajjiar - Amritsar",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Arrival in Manali",
+                "description": "On arrival at Manali, meet our representative and transfer to hotel. Check in and relax. Evening free for leisure and visit Mall Road. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Manali Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Hadimba Devi Temple, Manu Temple, Vashisht Hot Water Springs, Tibetan Monastery and Club House. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Solang Valley / Rohtang Pass",
+                "description": "Morning after breakfast proceed to Solang Valley. Enjoy adventure activities like paragliding, zorbing and ropeway rides. Optional visit to Rohtang Pass (subject to permit and weather conditions). Return to Manali. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Manali - Kullu - Kasol",
+                "description": "Morning after breakfast check out and proceed to Kasol via Kullu Valley. Visit river rafting point, shawl factories and Vaishno Devi Temple. Continue to Kasol, check in at hotel/camp and enjoy the scenic Parvati Valley. Overnight stay at Hotel/Camp."
+            },
+            {
+                "day": "Day 5 - Kasol - Manikaran - Dharamshala",
+                "description": "Morning after breakfast visit Manikaran Sahib known for its hot springs and Gurudwara. Later proceed to Dharamshala. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 6 - Dharamshala - Dalhousie",
+                "description": "Morning after breakfast proceed for Dharamshala sightseeing covering Dalai Lama Temple, Bhagsunag Temple and Waterfall, and Cricket Stadium. Later proceed to Dalhousie. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 7 - Dalhousie - Khajjiar - Amritsar",
+                "description": "Morning after breakfast proceed to Khajjiar, also known as Mini Switzerland of India. After sightseeing continue drive to Amritsar. On arrival check in at hotel. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 8 - Amritsar Departure",
+                "description": "Morning after breakfast visit Golden Temple, Jallianwala Bagh and Durgiana Temple. Later proceed to Wagah Border to witness the retreat ceremony. Drop at airport/railway station with onward journey."
+            }
+        ],
+
+        "package_inclusions": [
+            "3 Nights Accommodation in Manali",
+            "1 Night Accommodation in Kasol",
+            "1 Night Accommodation in Dharamshala",
+            "1 Night Accommodation in Dalhousie",
+            "1 Night Accommodation in Amritsar",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "Solang Valley excursion",
+            "Kullu, Kasol & Manikaran sightseeing",
+            "Dharamshala & Dalhousie sightseeing",
+            "Khajjiar excursion",
+            "Amritsar sightseeing",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "JIM CORBETT JUNGLE SAFARI TOUR PACKAGE",
+        "duration": "02 Nights / 03 Days",
+        "destination_covered": "Delhi - Jim Corbett - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Jim Corbett",
+                "description": "On arrival at Delhi, meet our representative and proceed to Jim Corbett National Park. On arrival check in at the resort and relax. Evening free for leisure or enjoy in-house activities. Overnight stay at Resort."
+            },
+            {
+                "day": "Day 2 - Jungle Safari & Sightseeing",
+                "description": "Early morning proceed for jungle safari in Jim Corbett National Park (by Jeep/Canter) to spot wildlife including tigers, elephants and deer. Return to resort for breakfast. Later visit Corbett Museum, Garjia Devi Temple and enjoy riverside activities. Overnight stay at Resort."
+            },
+            {
+                "day": "Day 3 - Jim Corbett - Delhi",
+                "description": "Morning after breakfast check out from resort and proceed to Delhi. Drop at airport/railway station with memorable wildlife experiences."
+            }
+        ],
+
+        "package_inclusions": [
+            "2 Nights Accommodation in Jim Corbett",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Resort",
+            "1 Jungle Safari in Jim Corbett National Park",
+            "All transfers and sightseeing by private vehicle",
+            "Driver allowance, toll taxes and parking",
+            "All applicable taxes included"
+        ]
+        },
+        {
+        "region": "uttarakhand",
+        "package_name": "MUSSOORIE DHANAULTI TOUR PACKAGE",
+        "duration": "03 Nights / 04 Days",
+        "destination_covered": "Delhi - Mussoorie - Dhanaulti - Delhi",
+        "starting_price": null,
+
+        "itinerary_days": [
+            {
+                "day": "Day 1 - Delhi - Mussoorie",
+                "description": "On arrival at Delhi, meet our representative and proceed to Mussoorie. On arrival check in at hotel and relax. In the evening visit Mall Road and enjoy local shopping. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 2 - Mussoorie Local Sightseeing",
+                "description": "Morning after breakfast proceed for local sightseeing covering Kempty Falls, Gun Hill, Lal Tibba, Company Garden and Camel’s Back Road. Evening free for leisure. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 3 - Mussoorie - Dhanaulti Excursion",
+                "description": "Morning after breakfast proceed for an excursion to Dhanaulti. Visit Eco Park, Surkanda Devi Temple and enjoy panoramic views of the Himalayas. Return to Mussoorie in the evening. Overnight stay at Hotel."
+            },
+            {
+                "day": "Day 4 - Mussoorie - Delhi",
+                "description": "Morning after breakfast check out from hotel and proceed to Delhi. Drop at airport/railway station with pleasant memories of the trip."
+            }
+        ],
+
+        "package_inclusions": [
+            "3 Nights Accommodation in Mussoorie",
+            "Welcome drink on arrival",
+            "Daily Breakfast & Dinner at Hotel",
+            "All transfers and sightseeing by private vehicle",
+            "Dhanaulti excursion",
+            "Driver allowance, toll taxes and parking",
+            "All applicable taxes included"
+        ]
         }
     ]
 }

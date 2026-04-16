@@ -97,6 +97,7 @@
                         </optgroup>
                     </select>
                 </div>
+                
                 <div class="filter-group">
                     <label>Duration:</label>
                     <select id="duration-filter" onchange="filterPackages()">
@@ -118,11 +119,20 @@
                     </select>
                 </div>
                 <button class="btn-secondary" onclick="resetFilters()">Reset Filters</button>
+              <!-- Search Box 
+                <div class="search-box">
+                    <label>Search:</label>
+                    <input type="text" id="search-input" placeholder="Search by title or duration..." 
+                           onkeyup="handleSearch()" >
+                </div> 
+                -->
             </div>
+
             <div class="results-count">
                 <p id="results-text">Showing all packages</p>
             </div>
         </div>
+        
     </section>
 
     <!-- Packages Grid -->

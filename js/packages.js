@@ -87,8 +87,30 @@ function resetFilters() {
     document.getElementById('destination-filter').value = 'all';
     document.getElementById('duration-filter').value = 'all';
     document.getElementById('sort-filter').value = 'default';
+    if (document.getElementById('search-input')) {
+        document.getElementById('search-input').value = '';
+    }
     
     filterPackages();
+}
+
+// Search packages by title and duration
+function handleSearch() {
+    const searchTerm = document.getElementById('search-input').value.toLowerCase();
+    
+    if (!searchTerm) {
+        filterPackages(); // Reset to normal filtering
+        return;
+    }
+    
+    const searchResults = allPackages.filter(pkg => {
+        const titleMatch = pkg.title.toLowerCase().includes(searchTerm);
+        const durationMatch = pkg.duration.toLowerCase().includes(searchTerm);
+        return titleMatch || durationMatch;
+    });
+    
+    displayPackages(searchResults);
+    updateResultsText(searchResults.length);
 }
 
 // Populate package select dropdown — lists each variant as a separate option
